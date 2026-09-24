@@ -1,0 +1,18 @@
+filename = 'genesis-1.1.1-1.21.1-NEOFORGE.jar'
+name = 'Genesis - World Previewer & Pregenerator'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.1-1.21.1'
+
+[download]
+hash = '4ff49956e2d8eca703330d1fc9f446d60c8a082cb6de4e79992ce3041c7f358a06d7ed23134b2d07e81b2269bc0c226e78646a517c47fe0c477cd8cbaab7b595'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xXuFelru/versions/3gRxgOI9/genesis-1.1.1-1.21.1-NEOFORGE.jar'
+
+[update.modrinth]
+mod-id = 'xXuFelru'
+version = '3gRxgOI9'
