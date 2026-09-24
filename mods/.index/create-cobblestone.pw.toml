@@ -1,0 +1,17 @@
+filename = 'createcobblestone-1.4.12+neoforge-1.21.1-144.jar'
+name = 'Create Cobblestone'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.12+neoforge-1.21.1-144'
+
+[download]
+hash = '8fd97028f89e6b2d626f3661ee9f03de6c0f3f293b3e08bbff2362800b5d04b0cab5a643b59a3128728cf331b6f3f85fbc50b5ae6089b530fbbb86cc51e2fa06'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ihpnEd80/versions/qucToeoF/createcobblestone-1.4.12%2Bneoforge-1.21.1-144.jar'
+
+[update.modrinth]
+mod-id = 'ihpnEd80'
+version = 'qucToeoF'

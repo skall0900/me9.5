@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "language": "en",
+  "continueOnRestart": false,
+  "forceLoadExistingChunks": false,
+  "silent": false,
+  "updateInterval": 1,
+  "ioThrottle": true,
+  "throttleTargetMspt": 150.0,
+  "throttleMaxChunkMillis": 750,
+  "throttleMaxQueuedWrites": 800,
+  "lodEnabled": "auto",
+  "throttleMaxLodQueue": 512,
+  "lodDhOverride": false,
+  "pregenSettle": true,
+  "pregenSettleDelayTicks": 40,
+  "pregenSettleRadius": 7
+}

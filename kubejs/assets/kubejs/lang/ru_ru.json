@@ -1,0 +1,12 @@
+{
+	"item.kubejs.incomplete_void_mechanism": "Незавершённый пустотный механизм",
+	"item.kubejs.void_mechanism": "Пустотный механизм",
+	"item.kubejs.incomplete_hydraulic_mechanism": "Незавершённый гидравлический механизм",
+	"item.kubejs.hydraulic_mechanism": "Гидравлический механизм",
+	"item.kubejs.incomplete_thermal_mechanism": "Незавершённый термальный механизм",
+	"item.kubejs.thermal_mechanism": "Термальный механизм",
+	"item.kubejs.lavender_quartz": "Лавандовый кварц",
+	"item.kubejs.polished_lavender_quartz": "Полированный лавандовый кварц",
+	"fluid.kubejs.catalyst_fluid": "Катализирующая смесь",
+	"item.kubejs.graphite": "Графит"
+}

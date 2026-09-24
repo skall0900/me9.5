@@ -1,0 +1,12 @@
+{
+	"item.kubejs.incomplete_void_mechanism": "Incomplete void mechanism",
+	"item.kubejs.void_mechanism": "Void mechanism",
+	"item.kubejs.incomplete_hydraulic_mechanism": "Incomplete hydraulic mechanism",
+	"item.kubejs.hydraulic_mechanism": "Hydraulic mechanism",
+	"item.kubejs.incomplete_thermal_mechanism": "Incomplete thermal mechanism",
+	"item.kubejs.thermal_mechanism": "Thermal mechanism",
+	"item.kubejs.lavender_quartz": "Lavender quartz",
+	"item.kubejs.polished_lavender_quartz": "Polished lavender quartz",
+	"fluid.kubejs.catalyst_fluid": "Catalyst fluid",
+	"item.kubejs.graphite": "Graphite"
+}
